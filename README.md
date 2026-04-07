@@ -1,7 +1,6 @@
 
 # Traffic Intelligence Dashboard
 
-A premium Dash-based BI dashboard built from `traffic_clean.csv` for portfolio, GitHub, and presentation use.
 
 ## Features
 - Interactive year range filter
