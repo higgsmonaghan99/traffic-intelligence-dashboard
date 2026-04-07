@@ -1,3 +1,6 @@
+# 🚦 Traffic Intelligence Dashboard
+
+![Dashboard Preview](assets/dashboard_preview.png)
 
 # Traffic Intelligence Dashboard
 
